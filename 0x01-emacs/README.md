@@ -1,0 +1,1 @@
+# this directory has all about the mandatory tasks for the second project related to emacs editor
